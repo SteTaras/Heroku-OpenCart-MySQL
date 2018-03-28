@@ -9,6 +9,7 @@
         "vendor-dir": "./upload/system/storage/vendor/"
     },
     "require": {
+    	"ext-gd": "*",
         "cardinity/cardinity-sdk-php": "^1.0",
         "braintree/braintree_php" : "3.2.0",
         "leafo/scssphp": "0.0.12",
